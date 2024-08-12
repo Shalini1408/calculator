@@ -1,2 +1,2 @@
 # calculator
-i m happy to share my codsoft internship
+i am happy to share my codsoft internship
